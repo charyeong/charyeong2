@@ -1,3 +1,10 @@
 push 전엔 pull이 있다
-변경!
-한 줄 추가
+
+Pull
+git pull origin master
+
+Puch
+git status
+git add .
+git commit -m "message"
+git push origin+master
